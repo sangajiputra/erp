@@ -1,0 +1,7 @@
+env
+application/logs/*
+application/cache/*
+application/config/config.php
+application/config/database.php
+!application/logs/index.html
+!application/logs/.htaccess
